@@ -55,8 +55,7 @@
 ###
 
 <br clear="both">
-![Snake animation](https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/snake.svg)
-<img src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/snake.svg" alt="Snake animation" />
+![Snake animation]<img src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/snake.svg" alt="Snake animation" />
 
 ###
 
