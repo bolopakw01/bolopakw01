@@ -1,12 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bolopakw01.bolopakw01&"  />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bolopa+KW!;" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bolopa+KW!;" />
 
 # 💫 About Me
 👩🏻‍💻 I am a Diploma student in Informatics Management.<br/>
 🏫 Studying Computer Science at Amikom University of Yogyakarta.<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=bolopakw01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolopakw01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 <hr>
 
@@ -39,8 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bolopakw01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolopakw01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+
 </div>
 
 ###
