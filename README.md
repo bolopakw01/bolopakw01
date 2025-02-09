@@ -1,10 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bolopakw01.bolopakw01&"  />
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=700&color=FFFFFF&lines=Hi+There!+👋" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=700&color=0000FF&lines=I'm+Bolopa+Kakungnge+Walinono!" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=700&left=true&vleft=true&width=700&height=70&duration=4000&color=FFFFFF&center=true&lines=Hi+There!+👋;I'm+%3Cspan+style='color:blue'%3EBolopa+Kakungnge+Walinono%3C/span%3E;&left=true&vCenter=true&pause=2000" />
+
 
 
 
