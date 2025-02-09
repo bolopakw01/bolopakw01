@@ -15,7 +15,8 @@
 
 <hr>
 
-<h2 align="center">"just a student who is studying programming with existing limitations <br> and if you want to be friends or connect with me, you can click on my social media link below"</h2>
+<h2 align="center">"just an ordinary student who is studying programming with the existing limitations
+and if you want to be friends or connect with me, you can click my social media link below"</h2>
 
 <hr>
 
