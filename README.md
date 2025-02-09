@@ -1,8 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bolopakw01.bolopakw01&"  />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bolopa+KW!;" />
+    
 </h1>
+
+# 👋 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bolopa+KW!;" />
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
+💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 <hr>
 
