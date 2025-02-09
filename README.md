@@ -1,4 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=bolopakw01&label=Profile%20views&color=0e75b6&style=flat" alt="bolopakw01" /> 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=bolopakw01&label=Profile%20views&color=0e75b6&style=flat" alt="bolopakw01" /> 
+</p>
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=40&weight=700&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Bolopa+Kakungnge+Walinono!;&left=true&vCenter=true&pause=2000" />
