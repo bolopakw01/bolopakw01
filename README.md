@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bolopakw01.bolopakw01&"  />
+<img align="right" src="https://Profil Views-badge.laobi.icu/badge?page_id=bolopakw01.bolopakw01&"  />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=40&weight=700&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Bolopa+Kakungnge+Walinono!;&left=true&vCenter=true&pause=2000" />
 
