@@ -17,6 +17,7 @@
 </div>
 
 <hr>
+<hr>
 
 <h2 align="center">"just an ordinary student who is studying programming with the existing limitations <br>
 and if you want to be friends or connect with me, you can click my social media link below"</h2>
