@@ -22,7 +22,7 @@
 and if you want to be friends or connect with me, you can click my social media link below"</h2>
 
 <hr>
-
+<hr>
 
 
 
