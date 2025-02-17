@@ -86,5 +86,5 @@ and if you want to be friends or connect with me, you can click my social media 
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/bolopakw01/BolopaKW/output/github-contribution-grid-snake.svg" style="display: block; margin: auto;" />
   </picture>
 </div>
-
+<hr>
 
