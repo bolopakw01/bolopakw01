@@ -87,4 +87,5 @@ and if you want to be friends or connect with me, you can click my social media 
   </picture>
 </div>
 
+<hr>
 
