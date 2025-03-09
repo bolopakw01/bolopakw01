@@ -89,3 +89,11 @@ and if you want to be friends or connect with me, you can click my social media 
 
 <hr>
 
+###
+<div align="left">
+  <a href="https://open.spotify.com/user/21ev2l4a35xzc5o5563opjehi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ev2l4a35xzc5o5563opjehi&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
