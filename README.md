@@ -34,7 +34,7 @@ and if you want to be friends or connect with me, you can click my social media 
 </div>
 
 <!-- ==================== SOCIAL MEDIA SECTION ==================== -->
-### Social Media (Primary)
+###
 <div align="center">
   <!-- Gmail -->
   <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=bolopakw01@gmail.com" target="_blank">
@@ -52,7 +52,7 @@ and if you want to be friends or connect with me, you can click my social media 
   </a>
 </div>
 
-### Social Media (Secondary)
+###
 <div align="center">
   <!-- Facebook -->
   <a href="https://www.facebook.com/HanyaUserBiasa" target="_blank">
