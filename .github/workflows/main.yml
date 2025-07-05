@@ -1,67 +1,54 @@
-# GitHub Action for generating animated contribution graphs (Snake + Pacman)
 name: Generate Contribution Graphs
 
-# Controls when the action will run:
 on:
   schedule:
-    # Runs every 12 hours (UTC)
-    - cron: "0 */12 * * *"
-  
-  # Manual trigger from Actions tab
+    # Runs every 6 hours (more frequent updates)
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-  
-  # Run on every push to main branch
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  build:
+  generate_graphs:
     runs-on: ubuntu-latest
-
     steps:
-      # ==================== STEP 1: CHECKOUT REPO ====================
-      - name: Clone repository
-        uses: actions/checkout@v3
+      # Step 1: Checkout repository
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      # ==================== STEP 2: GENERATE SNAKE GRAPH ====================
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        id: snake-gif
+      # Step 2: Generate Snake animation
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif
 
-      # ==================== STEP 3: GENERATE PACMAN GRAPH ====================
-      - name: Generate Pacman Animation
-        uses: PlamenaRadneva/pacman-contributions@v1.0.0
-        id: pacman-gif
+      # Step 3: Generate Pacman animation (using alternative working action)
+      - name: Generate Pacman
+        uses: marcelofernandes/pacman-contributions@main
+        id: pacman
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/pacman.svg
+            dist/pacman-dark.svg
 
-      # ==================== STEP 4: VERIFY GENERATED FILES ====================
+      # Step 4: Verify generated files
       - name: List generated files
         run: |
           ls -la dist/
           echo "Files generated successfully!"
 
-      # ==================== STEP 5: DEPLOY TO OUTPUT BRANCH ====================
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Step 5: Deploy to output branch
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/gh-pages@v3
         with:
-          target_branch: output  # Branch where SVGs will be stored
-          build_dir: dist       # Directory containing generated files
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: false
           commit_message: "Update contribution graphs - [skip ci]"
-          keep_files: false     # Overwrite existing files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
