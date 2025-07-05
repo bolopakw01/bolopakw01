@@ -83,15 +83,12 @@ and if you want to be friends or connect with me, you can click my social media 
 <hr>
 
 <!-- ==================== CONTRIBUTION GRAPHS SECTION ==================== -->
-<!-- Pacman-themed Contribution Graph (Dark/Light Mode) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
-  <img alt="Pacman eating my contributions" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
-</picture>
-
 <!-- Snake Animation (Animated SVG) -->
-<img src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake.svg">
+</picture>
 
 <hr>
 
