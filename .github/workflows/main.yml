@@ -1,54 +1,36 @@
-name: Generate Contribution Graphs
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    # Runs every 6 hours (more frequent updates)
-    - cron: "0 */6 * * *"
+    # Runs every 12 hours (original schedule)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [ main ]
 
 jobs:
-  generate_graphs:
+  generate_snake:
     runs-on: ubuntu-latest
     steps:
       # Step 1: Checkout repository
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       # Step 2: Generate Snake animation
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Step 3: Generate Pacman animation
-      - name: Generate Pacman
-        uses: marcelosperalta/pacman-contributions@v1
-        id: pacman
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg
-
-      # Step 4: Verify generated files
-      - name: List generated files
-        run: |
-          ls -la dist/
-          echo "Files generated successfully!"
-
-      # Step 5: Deploy to GitHub Pages
+      # Step 3: Deploy to output branch
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          keep_files: false
-          commit_message: "Update contribution graphs - [skip ci]"
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update snake animation - [skip ci]"
