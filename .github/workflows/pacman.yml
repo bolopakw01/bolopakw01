@@ -1,10 +1,8 @@
 name: Generate Pacman Contribution Graph
 
 on:
-  # Jalankan workflow ini setiap hari pada tengah malam (00:00 UTC)
   schedule:
-    - cron: '0 0 * * *'
-  # Izinkan untuk menjalankan workflow ini secara manual dari tab Actions
+    - cron: '0 0 * * *' # Berjalan setiap hari
   workflow_dispatch:
 
 jobs:
@@ -18,9 +16,7 @@ jobs:
         uses: maurodesouz/profile-pacman-contributions@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Path untuk menyimpan file SVG versi terang
           output_path_light: output/pacman-contribution-graph.svg
-          # Path untuk menyimpan file SVG versi gelap
           output_path_dark: output/pacman-contribution-graph-dark.svg
 
       - name: Commit and push
