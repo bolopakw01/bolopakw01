@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=40&weight=700&width=700&height=70&duration=2000&lines=Hi+There!+👋;I'm+Bolopa+Kakungnge+Walinono!;&left=true&vCenter=true&pause=4000" />
 
 # 💫 About Me
-👩🏻‍💻 Saya seorang mahasiswa Diploma Manajemen Informatika.<br/>
-🏫 Belajar Ilmu Komputer di [Universitas Amikom Yogyakarta](https://www.amikom.ac.id).<br/>
+👩🏻‍💻 I am a Diploma student in Informatics Management.<br/>
+🏫 Studying Computer Science at [Amikom University of Yogyakarta](https://www.amikom.ac.id).<br/>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bolopakw01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
@@ -16,8 +16,8 @@
 
 <hr>
 
-<h2 align="center">"hanya seorang mahasiswa biasa yang sedang belajar pemrograman dengan keterbatasan yang ada <br>
-dan jika ingin berteman atau terhubung dengan saya, bisa klik link media sosial saya di bawah ini"</h2>
+<h2 align="center">"Just an ordinary student learning to code with the limitations I have. <br>
+If you want to be friends or connect with me, feel free to click my social media links below."</h2>
 
 <hr>
 
@@ -75,6 +75,7 @@ dan jika ingin berteman atau terhubung dengan saya, bisa klik link media sosial 
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/main/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
 <hr>
 
 <h3 align="center">Recently Played on Spotify</h3>
