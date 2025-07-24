@@ -22,7 +22,7 @@ If you want to be friends or connect with me, feel free to click my social media
 <hr>
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZudmM2czk1ZXBsb2l3bG5ubTVqbzVlaTFzbmkwc3N1c2djY2s2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Y1wF3wx8L/giphy.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU0azkzNWVjaGtqMjBtazl6Nnhyc2lnYzd5ZHY2bDdubnA2OGJrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Y1wF3wx1Dex8w9wxL/giphy.gif"  />
 </div>
 
 <h3 align="center">Connect with me:</h3>
