@@ -12,19 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate pacman images
-        # Menggunakan action yang terbukti andal untuk mode terang/gelap
-        uses: maurodesouz/profile-pacman-contributions@v1
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Path harus diawali dengan folder `dist` agar sesuai dengan build_dir
-          output_path_light: dist/pacman-contribution-graph.svg
-          output_path_dark: dist/pacman-contribution-graph-dark.svg
+          github_user_name: ${{ github.repository_owner }}
+          # Action ini akan membuat file 'pacman-contribution-graph.svg' di root
 
-      - name: Push pacman images to the output branch
+      - name: Prepare build directory
+        # Membuat folder 'dist' dan memindahkan file pacman ke dalamnya
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
+
+      - name: Push pacman image to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
