@@ -99,3 +99,11 @@ and if you want to be friends or connect with me, you can click my social media 
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ev2l4a35xzc5o5563opjehi&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
