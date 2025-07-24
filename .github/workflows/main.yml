@@ -2,7 +2,7 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    # Runs every 12 hours (original schedule)
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -34,3 +34,5 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "Update snake animation - [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
