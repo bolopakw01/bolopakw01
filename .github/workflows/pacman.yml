@@ -3,7 +3,7 @@ name: Generate Pacman Contribution Graph
 on:
   schedule:
     - cron: '0 0 * * *' # Berjalan setiap hari
-  workflow_dispatch:
+  workflow_dispatch: # Untuk menjalankan manual
 
 jobs:
   build:
