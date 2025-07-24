@@ -75,7 +75,6 @@ dan jika ingin berteman atau terhubung dengan saya, bisa klik link media sosial 
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/main/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
 <hr>
 
 <h3 align="center">Recently Played on Spotify</h3>
