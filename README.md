@@ -8,6 +8,19 @@
 👩🏻‍💻 I am a Diploma student in Informatics Management.<br/>
 🏫 Studying Computer Science at [Amikom University of Yogyakarta](https://www.amikom.ac.id).<br/>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bolopakw01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolopakw01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
+
+<hr>
+
+<h2 align="center">"Just an ordinary student learning to code with the limitations I have. <br>
+If you want to be friends or connect with me, feel free to click my social media links below."</h2>
+
+<hr>
+
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU0azkzNWVjaGtqMjBtazl6Nnhyc2lnYzd5ZHY2bDdubnA2OGJrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Y1wF3wx1Dex8w9wxL/giphy.gif"  />
 </div>
@@ -25,78 +38,32 @@
 
 <hr>
 
+<h3 align="center">My Contributions</h3>
 
-# Hi there, I’m Bolopa K. W 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-### About Me
-I’m a **Diploma Student in Informatics Management** studying **Computer Science** at **Amikom University of Yogyakarta**.
+<br clear="both">
 
-🌱 I’m currently focused on learning and improving my skills in **data analysis**, **web development**, and **algorithm design**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
+</picture>
 
-✨ I’m passionate about:
-- Building **web-based projects** using languages such as HTML, JavaScript, and C++.
-- Exploring **data mining** and **machine learning** techniques (like Apriori).
-- Enhancing **GIS-based applications** to solve real-world problems in Yogyakarta.
+###
 
----
+<hr>
 
-###  My Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Project-Semester-1** | A foundational C++ project for academic requirements. | C++ |
-| **apriori.streamlit** | Interactive Jupyter Notebook that demonstrates the Apriori algorithm with Streamlit UI. | Python, Jupyter Notebook, Streamlit |
-| **GemasGalore** | A web interface showing gem-related content. | HTML |
-| **webgis-seyegan** | A GIS-based mapping project for Seyegan region. | JavaScript, WebGIS libraries |
-| **labdarlim** | Another web-based project, possibly for educational or lab purposes. | HTML |
-
-*(Feel free to update descriptions with project goals, features, or live demos!)*
-
----
-
-###  Skills & Tools
-- **Languages:** C++, JavaScript, HTML, Python
-- **Frameworks/Libraries:** Streamlit, (add if you use React, Node.js, etc.)
-- **Tools & Platforms:** Jupyter Notebook, WebGIS tools, Git & GitHub
-- **Other Interests:** Data Mining, Algorithms, Geographic Information Systems (GIS)
-
----
-
-###  Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/bolopakw01)  
-- [Instagram](https://www.instagram.com/bolopa_k.w)  
-- [Twitter/X](https://twitter.com/Bolopa_KW)  
-- [Facebook](https://www.facebook.com/HanyaUserBiasa)  
-- ORCID: [0009-0005-7075-6019](https://orcid.org/0009-0005-7075-6019)
-
----
-
-###  What I’m Learning
-- Currently enhancing my understanding of **data mining algorithms** and their applications.
-- Exploring **interactive web applications** that integrate **geospatial data**.
-- Working on improving **self-worth** through continuous learning and project practice.
-
----
-
-> “A student who wants to focus on improving self-worth.”  
-> – A personal mission that drives my journey.
-
----
-
-###  Tips for Contributors
-*(Optional — if you plan to open-source your projects)*  
-1. Fork the repo  
-2. Create your feature branch (`git checkout -b feature/your-feature`)  
-3. Commit your changes (`git commit -m 'Add some feature'`)  
-4. Push to the branch (`git push origin feature/your-feature`)  
-5. Open a Pull Request  
-
----
-
-###  Contact
-Preferably via [LinkedIn](https://www.linkedin.com/in/bolopakw01) or email (*add your email if comfortable*).
-
-Thank you for visiting my profile! 😊
-
-
-
+<h3 align="center">Recently Played on Spotify</h3>
+<div align="center">
+  <a href="https://open.spotify.com/user/21ev2l4a35xzc5o5563opjehi" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ev2l4a35xzc5o5563opjehi&count=10&unique=true&theme=tokyonight" alt="Spotify recently played" />
+  </a>
+</div>
 
