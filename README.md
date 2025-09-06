@@ -8,19 +8,6 @@
 👩🏻‍💻 I am a Diploma student in Informatics Management.<br/>
 🏫 Studying Computer Science at [Amikom University of Yogyakarta](https://www.amikom.ac.id).<br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bolopakw01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolopakw01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
-
-<hr>
-
-<h2 align="center">"Just an ordinary student learning to code with the limitations I have. <br>
-If you want to be friends or connect with me, feel free to click my social media links below."</h2>
-
-<hr>
-
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmU0azkzNWVjaGtqMjBtazl6Nnhyc2lnYzd5ZHY2bDdubnA2OGJrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Y1wF3wx1Dex8w9wxL/giphy.gif"  />
 </div>
