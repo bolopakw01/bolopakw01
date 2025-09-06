@@ -41,11 +41,19 @@ If you want to be friends or connect with me, feel free to click my social media
 <h3 align="center">My Contributions</h3>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/github-contribution-grid-snake.svg">
-  </picture>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
 
 <br clear="both">
