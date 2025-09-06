@@ -38,40 +38,5 @@ If you want to be friends or connect with me, feel free to click my social media
 
 <hr>
 
-<h3 align="center">My Contributions</h3>
 
-<div align="center">
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/snake.svg" alt="Snake animation" />
-
-###
-</div>
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bolopakw01/bolopakw01/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<hr>
-
-<h3 align="center">Recently Played on Spotify</h3>
-<div align="center">
-  <a href="https://open.spotify.com/user/21ev2l4a35xzc5o5563opjehi" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ev2l4a35xzc5o5563opjehi&count=10&unique=true&theme=tokyonight" alt="Spotify recently played" />
-  </a>
-</div>
 
