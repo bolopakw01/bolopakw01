@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/profile-banner.png" alt="Profile Banner" style="width:100%; max-width:800px;" />
+  <img src="assets/BOLOPAKW01.GIF" alt="Profile Banner" style="width:100%; max-width:800px;" />
   <h1 style="font-size: 3em; font-weight: bold; animation: fadeIn 3s ease-in-out;">Hi There! 👋</h1>
   <h2 style="font-size: 2em; font-weight: normal; animation: slideIn 3s ease-in-out;">I'm Bolopa Kakungnge Walinono</h2>
 </div>
