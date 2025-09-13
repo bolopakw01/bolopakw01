@@ -2,8 +2,22 @@
   <img src="https://komarev.com/ghpvc/?username=bolopakw01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi There! 👋</h1>
-<h2 align="center">I'm Bolopa Kakungnge Walinono</h2>
+<div align="center">
+  <h1 style="font-size: 3em; font-weight: bold; animation: fadeIn 3s ease-in-out;">Hi There! 👋</h1>
+  <h2 style="font-size: 2em; font-weight: normal; animation: slideIn 3s ease-in-out;">I'm Bolopa Kakungnge Walinono</h2>
+</div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideIn {
+  from { transform: translateX(-100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+</style>
 
 ---
 
@@ -17,24 +31,8 @@
 ## 🏆 Contributions
 
 <div align="center">
-  <div style="display: inline-block; animation: bounce 2s infinite;">
-    <p style="font-size: 20px; font-weight: bold;">"Coding is my passion!"</p>
-  </div>
+  <p style="font-size: 20px; font-weight: bold;">"Coding is my passion!"</p>
 </div>
-
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-20px);
-  }
-  60% {
-    transform: translateY(-10px);
-  }
-}
-</style>
 
 ---
 
