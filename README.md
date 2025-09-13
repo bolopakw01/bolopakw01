@@ -31,7 +31,7 @@
 - 📧 Email: bolopakw01@gmail.com
 - 🌐 LinkedIn: [bolopakw01](https://www.linkedin.com/in/bolopakw01/)
 - 📸 Instagram: [bolopa_k.w](https://www.instagram.com/bolopa_k.w/)
-- 🎥 YouTube: [YouTube Channel](https://www.youtube.com/)
+- 🎥 YouTube: [BolopaKW](https://www.youtube.com/@BolopaKW)
 - 🐦 X (Twitter): [Bolopa_KW](https://x.com/Bolopa_KW)
 - 💬 Discord: 1230223256737419305
 - 🎮 Twitch: [bolopakw01](https://www.twitch.tv/bolopakw01)
