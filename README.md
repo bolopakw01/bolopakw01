@@ -3,6 +3,7 @@
 </p>
 
 <div align="center">
+  <img src="assets/profile-banner.png" alt="Profile Banner" style="width:100%; max-width:800px;" />
   <h1 style="font-size: 3em; font-weight: bold; animation: fadeIn 3s ease-in-out;">Hi There! 👋</h1>
   <h2 style="font-size: 2em; font-weight: normal; animation: slideIn 3s ease-in-out;">I'm Bolopa Kakungnge Walinono</h2>
 </div>
@@ -31,12 +32,17 @@
 ## 🏆 Contributions
 
 <div align="center">
+  <img src="assets/contributions.png" alt="Contributions" style="width:100%; max-width:600px;" />
   <p style="font-size: 20px; font-weight: bold;">"Coding is my passion!"</p>
 </div>
 
 ---
 
 ## 📬 Connect with Me
+
+<div align="center">
+  <img src="assets/connect.png" alt="Connect with Me" style="width:100%; max-width:600px;" />
+</div>
 
 - 📧 Email: bolopakw01@gmail.com
 - 🌐 LinkedIn: [bolopakw01](https://www.linkedin.com/in/bolopakw01/)
