@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/profile-banner.png" alt="Profile Banner" style="width:100%; max-width:800px;" />
+  <img src="bolopakw01/BOLOPAKW01.gif" alt="Profile Banner" style="width:100%; max-width:800px;" />
   <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=40&weight=700&width=700&height=70&duration=2000&lines=Hi+There!+👋;I'm+Bolopa+Kakungnge+Walinono!;&left=true&vCenter=true&pause=4000" alt="Typing Animation" />
 </div>
 
