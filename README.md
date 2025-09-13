@@ -3,22 +3,9 @@
 </p>
 
 <div align="center">
-  <img src="bolopakw01/BOLOPAKW01.gif" alt="Profile Banner" style="width:100%; max-width:800px;" />
-  <h1 style="font-size: 3em; font-weight: bold; animation: fadeIn 3s ease-in-out;">Hi There! 👋</h1>
-  <h2 style="font-size: 2em; font-weight: normal; animation: slideIn 3s ease-in-out;">I'm Bolopa Kakungnge Walinono</h2>
+  <img src="assets/profile-banner.png" alt="Profile Banner" style="width:100%; max-width:800px;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=40&weight=700&width=700&height=70&duration=2000&lines=Hi+There!+👋;I'm+Bolopa+Kakungnge+Walinono!;&left=true&vCenter=true&pause=4000" alt="Typing Animation" />
 </div>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes slideIn {
-  from { transform: translateX(-100%); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-</style>
 
 ---
 
