@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolopakw01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
----
+----
 
 ## 📬 Connect with Me
 
