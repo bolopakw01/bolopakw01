@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-- 👩🏻‍💻 Diploma Student in Informatics Management
+- 👩🏻‍💻 Diploma Student in Informatics Management.
 - 🏫 Studying Computer Science at [Amikom University of Yogyakarta](https://www.amikom.ac.id)
 
 ---
